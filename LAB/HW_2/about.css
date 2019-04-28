@@ -1,0 +1,96 @@
+#logo{
+	height:150px;
+    width:20%;
+    background-color:#066;
+   left:0px;
+   top:0px;
+   position:absolute;
+   border:#009 solid 2px;
+}
+#banner{
+	height:150px;
+    width:80%;
+    background-color:#666;
+   right:0px;
+   top:0px;
+   position:absolute;
+   border:#093 solid 2px;
+}
+#menu{
+	height:80px;
+    width:100%;
+    background-color:#BF1479;
+   right:0px;
+   top:150px;
+   position:absolute;
+   border:#045 solid 2px;
+   
+}
+#lnavig{
+	height:200px;
+    width:25%;
+    background-color:#FF2579;
+   left:0px;
+   top:232px;
+   position:absolute;
+   border:#045 solid 2px;
+}
+#rnavig{
+	height:200px;
+    width:25%;
+    background-color:#FF2579;
+   right:0px;
+   top:232px;
+   position:absolute;
+   border:#045 solid 2px;
+}
+#tleft{
+	height:100px;
+    width:25%;
+    background-color:#50E14F;
+   left:25%;
+   top:232px;
+   position:absolute;
+   border:#045 solid 2px;
+}
+#tright{
+	height:100px;
+    width:25%;
+    background-color:#E98D26;
+   left:50%;
+   top:232px;
+   position:absolute;
+   border:#045 solid 2px;
+}
+#bleft{
+	height:100px;
+    width:25%;
+    background-color:#0813D9;
+   left:25%;
+   top:332px;
+   position:absolute;
+   border:#045 solid 2px;
+}
+#bright{
+	height:100px;
+    width:25%;
+    background-color:#EC0B19;
+   left:50%;
+   top:332px;
+   position:absolute;
+   border:#045 solid 2px;
+}
+#footer{
+	height:50px;
+    width:100%;
+    background-color:#EC0B19;
+   top:434px;
+right:0px;
+   position:absolute;
+   border:#045 solid 2px;
+}
+.follow{
+  height:15px; 
+  width:15px;
+  padding:0 0 2 0; 
+}
