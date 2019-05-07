@@ -1,0 +1,131 @@
+@charset "utf-8";
+/* CSS Document */
+#logo{
+            height: 150px;
+            width: 15%;
+            top: 0px;
+            left: 0px;
+            position: absolute;
+            background-color:#2C3147;
+            text-align:center;
+            color:#FF9908;
+            font-size:200%;
+            font-family: Flaticon.ttf;
+        }
+        #header{
+            height: 150px;
+            width: 85%;
+            top: 0px;
+            left: 15%;
+            position: absolute;
+            background-color:#3339AB;
+            text-align: center;
+        }
+        #nav{
+            height: 100px;
+            width: 100%;
+            top: 150px;
+            left: 0%;
+            position: absolute;
+            background-color:#D7DAD1;
+            text-align: center;
+            padding-top: 25px;
+            color:white;
+        }
+        #lside{
+            height: 300px;
+            width: 20%;
+            top: 250px;
+            left: 0%;
+            position: absolute;
+            background-color:dodgerblue;
+            text-align: center;
+            color:white;
+        }
+        #lside h1{
+            color:crimson;
+        }
+
+        #cont{
+            height: 300px;
+            width: 60%;
+            top: 250px;
+            left: 20%;
+            position: absolute;
+            background-color:chartreuse;
+            text-align: center;
+        }
+        #topl{
+            height: 150px;
+            width: 50%;
+            top: 0px;
+            left: 0%;
+            position: absolute;
+            background-color:yellow;
+            text-align: center;
+        }
+        #topr{
+            height: 150px;
+            width: 50%;
+            top: 0px;
+            left: 50%;
+            position: absolute;
+            background-color:red;
+            text-align: center;
+        }
+        #downl{
+            height: 150px;
+            width: 50%;
+            top: 150px;
+            left: 0%;
+            position: absolute;
+            background-color:green;
+            text-align: center;
+        }
+        #downr{
+            height: 150px;
+            width: 50%;
+            top: 150px;
+            left: 50%;
+            position: absolute;
+            background-color:blueviolet;
+            text-align: center;
+        }
+        #rside{
+            height: 300px;
+            width: 20%;
+            top: 250px;
+            left: 80%;
+            position: absolute;
+            background-color:white;
+            text-align: center;
+            color: black;
+        }
+        #footer{
+            height: 100px;
+            width: 100%;
+            top: 550px;
+            left: 0%;
+            position: absolute;
+            background-color:firebrick;
+            text-align: center;
+        }
+        #fl{
+            height: 100px;
+            width: 70%;
+            top: 0px;
+            left: 0%;
+            position: absolute;
+            background-color: 2E3C48;
+            text-align: center;
+            color: #55ADEE;
+        }
+        #fr{
+            height: 100px;
+            width: 30%;
+            top: 0px;
+            left: 70%;
+            position: absolute;
+            background-color:#202124;
+            text-align: center;
+        }

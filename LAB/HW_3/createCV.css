@@ -1,0 +1,17 @@
+@charset "utf-8";
+/* CSS Document */
+ body{
+                background: url(sha/back.jpg);
+                background-attachment: fixed;
+                background-size: cover;
+            }
+            #cv{
+                height: 1100px;
+                width: 80%;
+                margin: 5% 10% 10% 10%;
+                background-color: #F1DDD0;
+                text-align: center;
+            }
+            body div fieldset form{
+                margin-left:20%;
+            }

@@ -1,0 +1,20 @@
+@charset "utf-8";
+/* CSS Document */
+#service{
+			background-color:#FC5B5B;
+			text-align: center;
+			height: 500px;
+			width:100%;
+			top:90px;
+			left:0px;
+			position:absolute;
+		}
+		#menu{
+			background-color: #2C3147;
+			height: 90px;
+			width:100%;
+			left:0px;
+			top:0px;
+			position:absolute;
+			text-align:center;
+		}

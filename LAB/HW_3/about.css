@@ -1,0 +1,19 @@
+@charset "utf-8";
+/* CSS Document */
+#about{
+			background-color: gold;
+			text-align: center;
+			height: 1000px;
+			width:100%;
+			top:90px;
+			position:absolute;
+		}
+		#menu{
+			background-color: #2C3147;
+			height: 90px;
+			width:100%;
+			left:0px;
+			top:0px;
+			position:absolute;
+			text-align:center;
+		}

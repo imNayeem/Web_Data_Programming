@@ -1,0 +1,20 @@
+@charset "utf-8";
+/* CSS Document */
+ #contact{
+            background-color:#BAC6BD;
+            height: 1000px;
+            width:100%;
+            left:0px;
+            top:90px;
+            position:absolute;
+        }
+        #contact ul{ margin-left:42%;}
+        #menu{
+            background-color: #2C3147;
+            height: 90px;
+            width:100%;
+            left:0px;
+            top:0px;
+            position:absolute;
+            text-align:center;
+        }
