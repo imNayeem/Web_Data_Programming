@@ -1,0 +1,8 @@
+In Admin- Add product ,Edit,Delete,Update And All Kind Of Access They Have.
+In User- Log In, Sign up, Product Details
+
+Thank You Reading
+
+This Not A Full Project.. Demo Project....
+
+:) 
